@@ -1,3 +1,5 @@
+//Santiago Quintana
+//link del video subido a Youtube: https://www.youtube.com/watch?v=NntwKoghKKc
 int cuentaFotograma=0;
  PImage imagen;
 String estado= "inicio";
